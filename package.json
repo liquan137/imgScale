@@ -1,9 +1,9 @@
 {
-  "name": "ai",
+  "name": "vue-imgScale",
   "version": "1.0.0",
-  "description": "AI image character recognition and engineering drawing recognition",
+  "description": "vue-imgScale",
   "author": "ick <1031308775@qq.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "run dev",
